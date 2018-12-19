@@ -1,0 +1,9 @@
+//Rotas
+yarn add react-navigation react-native-gesture-handler
+//react-native-gesture-handle -> animações de transição
+//react-native-gesture-handler precisa de instalações nativas
+react-native link react-native-gesture-handler
+//Sempre após instalação nativa precisa :
+react-native run-ios
+//forçando simulador
+//react-native run-ios --simulator "iPhone XS Max"
