@@ -7,3 +7,6 @@ react-native link react-native-gesture-handler
 react-native run-ios
 //forçando simulador
 //react-native run-ios --simulator "iPhone XS Max"
+
+//Trabalhar com APIs
+yarn add axios
