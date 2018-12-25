@@ -10,3 +10,6 @@ react-native run-ios
 
 //Trabalhar com APIs
 yarn add axios
+
+//definir tamanho do status bar
+yarn add react-native-status-bar-height
