@@ -13,3 +13,8 @@ yarn add axios
 
 //definir tamanho do status bar
 yarn add react-native-status-bar-height
+
+//trabalhando com icones
+yarn add react-native-vector-icons
+react-native link react-native-vector-icons
+react-native run-ios
