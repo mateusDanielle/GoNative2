@@ -9,6 +9,9 @@ const styles = StyleSheet.create({
   loading: {
     marginTop: metrics.baseMargin * 2,
   },
+  flatList: {
+    paddingBottom: 20,
+  },
 });
 
 export default styles;
