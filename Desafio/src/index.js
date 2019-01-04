@@ -1,9 +1,10 @@
 import React from 'react';
 
-import { View } from 'react-native';
+import '~/config/DevToolsConfig';
+import '~/config/ReactotronConfig';
 
-// import styles from './styles';
+import Routes from './routes';
 
-const src = () => <View />;
+const App = () => <Routes />;
 
-export default src;
+export default App;
